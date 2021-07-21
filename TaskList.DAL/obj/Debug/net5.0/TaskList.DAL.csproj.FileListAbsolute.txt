@@ -1,0 +1,12 @@
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.DAL.deps.json
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.DAL.dll
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\ref\TaskList.DAL.dll
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.DAL.pdb
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.csproj.AssemblyReference.cache
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.AssemblyInfoInputs.cache
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.AssemblyInfo.cs
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.dll
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\ref\TaskList.DAL.dll
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.pdb

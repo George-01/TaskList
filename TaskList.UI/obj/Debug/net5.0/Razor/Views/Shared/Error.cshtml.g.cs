@@ -26,8 +26,22 @@ using TaskList.UI.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Projects\TaskList\TaskList.UI\Views\_ViewImports.cshtml"
+using TaskList.Domain;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Projects\TaskList\TaskList.UI\Views\_ViewImports.cshtml"
+using TaskList.Services;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3edb760f860e5597d2c443269bc38d1b40b6fa96", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"97c75986326c66952a248f1fe44fa944bf02a440", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

@@ -1,0 +1,12 @@
+C:\Projects\TaskList\TaskList.Domain\bin\Debug\net5.0\TaskList.Domain.deps.json
+C:\Projects\TaskList\TaskList.Domain\bin\Debug\net5.0\TaskList.Domain.dll
+C:\Projects\TaskList\TaskList.Domain\bin\Debug\net5.0\ref\TaskList.Domain.dll
+C:\Projects\TaskList\TaskList.Domain\bin\Debug\net5.0\TaskList.Domain.pdb
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.csproj.AssemblyReference.cache
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.AssemblyInfoInputs.cache
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.AssemblyInfo.cs
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.dll
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\ref\TaskList.Domain.dll
+C:\Projects\TaskList\TaskList.Domain\obj\Debug\net5.0\TaskList.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Projects\TaskList\TaskList.Services\bin\Debug\net5.0\TaskList.Services.deps.json
+C:\Projects\TaskList\TaskList.Services\bin\Debug\net5.0\TaskList.Services.dll
+C:\Projects\TaskList\TaskList.Services\bin\Debug\net5.0\ref\TaskList.Services.dll
+C:\Projects\TaskList\TaskList.Services\bin\Debug\net5.0\TaskList.Services.pdb
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.csproj.AssemblyReference.cache
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.AssemblyInfoInputs.cache
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.AssemblyInfo.cs
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.csproj.CoreCompileInputs.cache
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.dll
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\ref\TaskList.Services.dll
+C:\Projects\TaskList\TaskList.Services\obj\Debug\net5.0\TaskList.Services.pdb

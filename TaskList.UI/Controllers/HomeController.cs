@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using TaskList.DAL;
 using TaskList.UI.Models;
 
 namespace TaskList.UI.Controllers
@@ -12,15 +13,22 @@ namespace TaskList.UI.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private TaskListDbContext _db;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, TaskListDbContext db)
         {
             _logger = logger;
+            _db = db;
         }
 
         public IActionResult Index()
         {
             return View();
+        }
+
+        public IActionResult Tasks()
+        {
+            return View(_db.TaskItems.AsEnumerable());
         }
 
         public IActionResult Privacy()

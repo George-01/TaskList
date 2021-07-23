@@ -10,3 +10,9 @@ C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.csproj.CoreCompi
 C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.dll
 C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\ref\TaskList.DAL.dll
 C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.pdb
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.Domain.dll
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.Domain.pdb
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.csproj.CopyComplete
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.DAL.runtimeconfig.json
+C:\Projects\TaskList\TaskList.DAL\bin\Debug\net5.0\TaskList.DAL.runtimeconfig.dev.json
+C:\Projects\TaskList\TaskList.DAL\obj\Debug\net5.0\TaskList.DAL.genruntimeconfig.cache
